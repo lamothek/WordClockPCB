@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/Kevin/Documents/KiCad/WordClock/WordClock.sch)
-    (date "2017-10-31 12:35:00 AM")
+    (date "2017-11-02 12:26:20 AM")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
