@@ -1,4 +1,4 @@
-update=2017-10-26 11:56:09 PM
+update=2018-01-29 12:00:40 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=CustomLibrary;CustomLibrary;CustomLibrary
+LibDir=CustomLibrary;CustomLibrary;CustomLibrary;CustomLibrary;CustomLibrary
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -62,3 +62,4 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=CustomLibrary/NUD3124
+LibName34=CustomLibrary/e2c-12nu
