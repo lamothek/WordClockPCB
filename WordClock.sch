@@ -33,6 +33,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:NUD3124
 LIBS:e2c-12nu
+LIBS:tiny_rtc
 LIBS:WordClock-cache
 EELAYER 25 0
 EELAYER END
@@ -318,7 +319,7 @@ U 1 1 5A6EC03C
 P 4775 3775
 F 0 "J1" H 4775 3875 50  0000 C CNN
 F 1 "Conn_01x02" H 4775 3575 50  0000 C CNN
-F 2 "Connectors_Phoenix:PhoenixContact_MC-GF_02x3.50mm_Angled_ThreadedFlange" H 4775 3775 50  0001 C CNN
+F 2 "Connectors_Phoenix:PhoenixContact_MC-G_02x3.50mm_Angled" H 4775 3775 50  0001 C CNN
 F 3 "" H 4775 3775 50  0001 C CNN
 	1    4775 3775
 	1    0    0    -1  
@@ -377,5 +378,4 @@ F 3 "" H 2600 2625 50  0001 C CNN
 	1    2600 2625
 	-1   0    0    1   
 $EndComp
-NoConn ~ 5250 4900
 $EndSCHEMATC

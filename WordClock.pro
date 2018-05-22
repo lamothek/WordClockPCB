@@ -1,4 +1,4 @@
-update=2018-01-29 12:00:40 AM
+update=2018-02-04 12:45:07 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=contrib
 LibName32=valves
 LibName33=CustomLibrary/NUD3124
 LibName34=CustomLibrary/e2c-12nu
+LibName35=CustomLibrary/tiny_rtc
